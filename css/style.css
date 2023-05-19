@@ -4,7 +4,7 @@ body{
 }
 
 .cont{
-   width: 390px; 
+   width: auto; 
    max-width: 390px;
    height: 2000px;
    max-height: 2000px;
@@ -30,11 +30,12 @@ body{
 .log{
  
     color: rgb(221, 68, 12);
-   width: 100px;
-   max-width: 100px;
+   width: 130px;
+   max-width: 120px;
     position: relative;
     top: 20px;
     left: 15px;
+ 
 }
 
 .img{
@@ -51,7 +52,7 @@ body{
     font-size: 18px;
     text-decoration: none;
     position: relative;
-    left: 250px;
+    left: 220px;
     bottom: 30px;
     font-family: 'Times New Roman', Times, serif;
     transition: 2s;
@@ -80,7 +81,7 @@ hr{
     font-size: 18px;
     text-decoration: none;
     position: relative;
-    left: 230px;
+    left: 200px;
     bottom: 30px;
     font-family: 'Times New Roman', Times, serif;
     transition: 2s;
@@ -94,7 +95,7 @@ hr{
     font-size: 18px;
     text-decoration: none;
     position: relative;
-    left: 200px;
+    left: 180px;
     bottom: 30px;
     font-family: 'Times New Roman', Times, serif;
     transition: 2s;
@@ -108,7 +109,7 @@ hr{
     font-size: 18px;
     text-decoration: none;
     position: relative;
-    left: 170px;
+    left: 150px;
     bottom: 30px;
     font-family: 'Times New Roman', Times, serif;
     transition: 2s;
@@ -118,11 +119,15 @@ hr{
     text-decoration: underline;
 }
 h1{
+
+    width: 130px;
+    max-width: 140px;
     color: orangered;
     position: relative;
     top: 5px;
-    left: 120px;
+    left: 130px;
     width: 150px;
+    font-size: 26px;
 }
 h2{
     color: rgb(255, 255, 255);
